@@ -1,0 +1,13 @@
+{
+  "name": "devto-nextjs-amplify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "immer": "^4.0.1",
+    "nanoid": "^2.1.4",
+    "next": "^9.1.1",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2"
+  }
+}
