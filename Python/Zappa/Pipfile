@@ -1,0 +1,21 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+yapf = "*"
+
+[packages]
+django = "==2.1.9"
+pylint = "*"
+pillow = "*"
+zappa = "*"
+django-storages = "*"
+"boto3" = "*"
+boto = "*"
+django-imagekit = "*"
+django-environ = "*"
+
+[requires]
+python_version = "3.6"
