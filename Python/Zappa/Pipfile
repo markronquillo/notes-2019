@@ -8,12 +8,12 @@ yapf = "*"
 
 [packages]
 django = "==2.1.9"
+djangorestframework = "*"
 pylint = "*"
 pillow = "*"
 zappa = "*"
 django-storages = "*"
 "boto3" = "*"
-boto = "*"
 django-imagekit = "*"
 django-environ = "*"
 
