@@ -33,7 +33,7 @@ const typeDefs = gql`
   }
 
   type Query {
-    launches(pageSize: Int!, after: String): LaunchConnection!
+    launches(pageSize: Int, after: String): LaunchConnection!
     launch(id: ID!): Launch
     me: User
   }
