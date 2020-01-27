@@ -1,0 +1,5 @@
+- [x] Initial setup
+- [x] Display grid
+- [x] Make grid cell clickable/toggles state
+- [ ] simulation
+  - [ ]
